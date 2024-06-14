@@ -1,4 +1,9 @@
-p{
+.class{
     background-color: #ffc0cb;
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#div1 {
+    font-size: 36px;
+    color: #00f;
 }
